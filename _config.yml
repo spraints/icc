@@ -1,13 +1,12 @@
 url: http://production.frankfortccc.com
-title: CCC Production
+title: Ice Cream Cones!
 
-permalink: /articles/:title.html
+permalink: /:year/:month/:day/:title.html
 
 safe: true
 lsi: false
 
 exclude:
-- CNAME
 - Gemfile
 - Gemfile.lock
 - script
