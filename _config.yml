@@ -1,0 +1,13 @@
+url: http://production.frankfortccc.com
+title: CCC Production
+
+permalink: /articles/:title.html
+
+safe: true
+lsi: false
+
+exclude:
+- CNAME
+- Gemfile
+- Gemfile.lock
+- script
