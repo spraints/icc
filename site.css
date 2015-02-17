@@ -10,3 +10,15 @@ body > .container {
   font-weight: bold;
   color: blue;
 }
+.yicc {
+  font-weight: bold;
+  color: #ec0;
+}
+.gicc {
+  font-weight: bold;
+  color: green;
+}
+.picc {
+  font-weight: bold;
+  color: #ffc0cb;
+}
