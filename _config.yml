@@ -6,6 +6,11 @@ permalink: /:year/:month/:day/:title.html
 safe: true
 lsi: false
 
+ricc: '<span class="ricc">Red Ice Cream Cone</span>'
+bicc: '<span class="bicc">Blue Ice Cream Cone</span>'
+picc: '<span class="picc">Pink Ice Cream Cone</span>'
+gicc: '<span class="gicc">Green Ice Cream Cone</span>'
+
 exclude:
 - Gemfile
 - Gemfile.lock
