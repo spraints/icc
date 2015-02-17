@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title != null %}{{page.title}} - {% endif %}{{site.title}}</title>
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" type="text/css">
-    <link rel="stylesheet" href="{% if site.environment == "production" %}{{site.url}}{% endif %}/site.css" type="text/css">
+    <link rel="stylesheet" href="{% if site.github.environment == "production" %}{{site.url}}{% endif %}/site.css" type="text/css">
   </head>
   <body>
     <nav class="navbar navbar-default navbar-fixed-top">
@@ -38,6 +38,6 @@
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 
-    <div>{{site.environment}} {{site.build_revision}}</div>
+    <div>{{site.github.environment}} {{site.github.build_revision}}</div>
   </body>
 </html>

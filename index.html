@@ -4,5 +4,5 @@ layout: "default"
 <h2>The Adventures of <span class="ricc">Red Ice Cream Cone</span> and <span class="bicc">Blue Ice Cream Cone</span>!</h2>
 <h3>Stories</h3>
 {% for post in site.posts %}
-<p><a href="{% if site.environment == "production" %}{{site.url}}{% endif %}{{post.url}}">{{post.title}}</a>
+<p><a href="{% if site.github.environment == "production" %}{{site.url}}{% endif %}{{post.url}}">{{post.title}}</a>
 {% endfor %}
