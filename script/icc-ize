@@ -1,0 +1,12 @@
+#!/usr/bin/ruby
+
+content = $stdin.read
+content.gsub! /(.....)(.icc)/ do |match|
+  pre, icc = $1, $2
+  if pre == "site."
+    match
+  else
+    "#{pre}{{site.#{$2}}}"
+  end
+end
+puts content
