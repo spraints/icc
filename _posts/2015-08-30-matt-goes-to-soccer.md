@@ -18,7 +18,7 @@ AND THEN IT GOT REALLY BRIGHT! "HAPPY BIRTHDAY RED ICE CREAM CONE!!!" everyone s
 
 # STORY THE SECOND
 
-ricc and {{site.bicc}} were playing with ice blocks. They hadn't really made anything very interesting when all of a sudden the Ice Cream Cone Beacon shone in the sky. "Time to go!"
+{{site.ricc}} and {{site.bicc}} were playing with ice blocks. They hadn't really made anything very interesting when all of a sudden the Ice Cream Cone Beacon shone in the sky. "Time to go!"
 
 The mayor said, "Well, hello boys. How are you doing? Did you have a nice weekend?"
 
@@ -30,7 +30,7 @@ The mayor said, "Well, hello boys. How are you doing? Did you have a nice weeken
 
 "That's wonderful," the mayor continued. "It sure is nice to have a snowball fight. I remember when --"
 
-bicc interrupted. "Mr. Mayor, isn't there a crisis? Isn't that why you turned on the beacon?"
+{{site.bicc}} interrupted. "Mr. Mayor, isn't there a crisis? Isn't that why you turned on the beacon?"
 
 "What?" The mayor got a bit flustered. "Oh, yes, that's right. Over in West Iceville we think there's a hot bot."
 
@@ -42,7 +42,7 @@ bicc interrupted. "Mr. Mayor, isn't there a crisis? Isn't that why you turned on
 
 "Oh, not just that. Also the police told me that three buildings HAVE BEEN MELTED!!!"
 
-bicc's eyes opened wide. "That sure sounds like a hot bot! {{site.ricc}}, let's go!"
+{{site.bicc}}'s eyes opened wide. "That sure sounds like a hot bot! {{site.ricc}}, let's go!"
 
 They headed over to west iceville. When they got there, sure enough there was a hot bot. {{site.ricc}} turned on the hydraulic jammer, but it didn't stop the hot bot. {{site.bicc}} turned on the electromagnetic jammer, but it didn't stop the hot bot. {{site.ricc}} tried the bluetooth jammer, but the hot bot kept going. {{site.bicc}} tried the wifi jammer, still nothing. {{site.ricc}} was getting aggravated, so he reached into his tool box, grabbed the first thing he touched, and threw it at the hot bot. The tool landed in the left hip of the hot bot, and the hot bot fell all apart.
 
@@ -52,13 +52,13 @@ When they pulled the heat lamp out of the cockpit, he said, "You lousy kids just
 
 Blasters blasted through the air. Light sabers sliced the debris. Bad guys were fighting good guys, and it looked like the bad guys had the upper hand.
 
-ricc turned off the TV. "TV is so unrealistic," he announced. "It's nothing like real life."
+{{site.ricc}} turned off the TV. "TV is so unrealistic," he announced. "It's nothing like real life."
 
 "What do you mean?" {{site.bicc}} asked.
 
 "I mean, the bad guys are always so dumb! Once we show up, it's only like two seconds before they're in the slammer and their junk is in the junk yard. Bad guys are super dumb."
 
-bicc started to say, "Don't you remember that one time when," but he didn't finish, because there was a huge explosion outside! It sounded right outside the door! {{site.ricc}} and {{site.bicc}} both jumped.
+{{site.bicc}} started to say, "Don't you remember that one time when," but he didn't finish, because there was a huge explosion outside! It sounded right outside the door! {{site.ricc}} and {{site.bicc}} both jumped.
 
 They ran to the door and looked outside. Of course, by this time they were changed into their ninja suits. The front yard looked normal, so they continued out to the street. When they looked around, they saw a huge column of smoke rising a bit north of town. They rushed to their cool bots and headed off.
 
@@ -80,7 +80,7 @@ The blast that had opened the crater was super hot, and had melted a lot of ice.
 
 He called the other ninjas, and asked if they had seen Hot Plate. They said that they hadn't, but they'd heard a rocket. Hot Plate must have flown away. Rats!
 
-bicc asked, "{{site.ricc}}, did you see Hot Plate?"
+{{site.bicc}} asked, "{{site.ricc}}, did you see Hot Plate?"
 
 "Yeah."
 

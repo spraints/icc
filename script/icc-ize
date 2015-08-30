@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 
 content = $stdin.read
-content.gsub! /(.....)(.icc)/ do |match|
+content.gsub! /(.....|^)(.icc)/ do |match|
   pre, icc = $1, $2
   if pre == "site."
     match
