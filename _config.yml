@@ -10,6 +10,7 @@ ricc: '<span class="ricc">Red Ice Cream Cone</span>'
 bicc: '<span class="bicc">Blue Ice Cream Cone</span>'
 picc: '<span class="picc">Pink Ice Cream Cone</span>'
 gicc: '<span class="gicc">Green Ice Cream Cone</span>'
+yicc: '<span class="yicc">Yellow Ice Cream Cone</span>'
 
 exclude:
 - Gemfile
